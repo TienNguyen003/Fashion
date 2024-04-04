@@ -1,4 +1,2 @@
 # Azalea
 # Fashion
-# Fashion
-# Fashion
